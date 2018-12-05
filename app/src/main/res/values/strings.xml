@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Near By Restaurant</string>
+    <string name="preference_file_key">nearby_restaurant</string>
+</resources>

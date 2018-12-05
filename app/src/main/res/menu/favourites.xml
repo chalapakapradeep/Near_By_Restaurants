@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/switchId"
+        android:title="favou"
+        android:actionLayout="@layout/show_protected_switch"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/area"
+        app:showAsAction="never"
+        android:title="Radius">
+    </item>
+</menu>
